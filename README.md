@@ -1,46 +1,36 @@
-# Astro Starter Kit: Basics
+# Alessandro Portfolio
 
-```sh
-npm create astro@latest -- --template basics
-```
+Portafolio personal desarrollado con Astro, React y Tailwind CSS.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Tech Stack
 
-## 🚀 Project Structure
+- **Framework:** Astro
+- **UI:** React + Tailwind CSS
+- **Herramientas:** TypeScript, Vite
 
-Inside of your Astro project, you'll see the following folders and files:
+## Proyectos
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
+### MedDev
+Sistema de gestión clínica para la unidad de pleura de la policlínica Maracaibo.
+- [Ver proyecto](https://www.meddev.lat/)
+- [Repositorio](https://github.com/ariannagutirrzz/med-dev)
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+### Freelance Entrepreneurships
+Aplicación para la gestión de emprendimientos y alianzas de Freelance Latin America.
+- [Ver proyecto](https://freelance-entrepreneurships-fronten.vercel.app/)
+- [Repositorio](https://github.com/Madlekzz/Freelance-entrepreneurships)
 
-## 🧞 Commands
+## Experiencia
 
-All commands are run from the root of the project, from a terminal:
+- **IT Intern** @ Freelance Latin America (2025 - Actualidad)
+- **Frontend Developer** @ Sitrive (2025)
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## Contacto
 
-## 👀 Want to learn more?
+- [LinkedIn](https://www.linkedin.com/in/alessandroapru-dev)
+- [GitHub](https://github.com/Madlekzz)
+- Email: alessandro.aapruzzese@gmail.com
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## Licencia
+
+MIT License - voir [LICENSE](LICENSE)
