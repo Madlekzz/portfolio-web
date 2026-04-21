@@ -6,7 +6,6 @@ Portafolio personal desarrollado con Astro, React y Tailwind CSS.
 
 - **Framework:** Astro
 - **UI:** React + Tailwind CSS
-- **Herramientas:** TypeScript, Vite
 
 ## Proyectos
 
