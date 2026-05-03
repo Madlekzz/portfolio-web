@@ -60,7 +60,7 @@ export const proyectos = [
       "Render",
     ] as const,
     imagen: "/freelance.png",
-    enlace: "https://freelance-entrepreneurships-fronten.vercel.app/",
+    enlace: "https://app.freelancelatam.net",
     repo: "https://github.com/Madlekzz/Freelance-entrepreneurships",
   },
 ] as const;
@@ -93,6 +93,7 @@ export const categorias = [
       { nombre: "Vercel", slug: "vercel" },
       { nombre: "Supabase", slug: "supabase" },
       { nombre: "Render", slug: "render" },
+      { nombre: "n8n", slug: "n8n" },
     ],
   },
 ] as const;
