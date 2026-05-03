@@ -18,6 +18,7 @@ const iconMap: Record<string, simpleIcons.SimpleIcon> = {
   vercel: simpleIcons.siVercel,
   supabase: simpleIcons.siSupabase,
   render: simpleIcons.siRender,
+  n8n: simpleIcons.siN8n,
 };
 
 const whiteIconNames = ["vercel", "nextdotjs", "express", "render"];
