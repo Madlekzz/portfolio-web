@@ -29,7 +29,7 @@ export const translations = {
         {
           cargo: "Pasante de IT",
           ubicacion: "Presencial",
-          periodo: "Diciembre 2025 - Actualidad",
+          periodo: "Diciembre 2025 - Abril 2026",
           descripcion:
             "Encargado del desarrollo y mantenimiento de automatizaciones y aplicaciones web complejas.",
         },
@@ -91,7 +91,7 @@ export const translations = {
         {
           cargo: "IT Intern",
           ubicacion: "On-site",
-          periodo: "December 2025 - Currently",
+          periodo: "December 2025 - April 2026",
           descripcion:
             "Responsible for the development and maintenance of complex automations and web applications.",
         },
